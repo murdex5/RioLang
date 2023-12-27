@@ -1,0 +1,37 @@
+This is the language specification file:
+
+Variables:
+    Have two types:
+        Constant: const
+        Let: let (is mutable by design)
+
+Data Types:
+    Integers: int 
+        examples:
+            let num = 3;
+            const num = 3;
+
+    Floats: float
+        examples:
+            let num_float = 3.3;
+            const num_float = 3.3;
+
+    Boolean: True, False
+        examples:
+            let is_true = true;
+            let is_false = false;
+
+            const is_true = true;
+            const is_false = false;
+    
+    String: 
+        examples:
+            let name = "Rio Lang"; or let name = 'Rio Lang';
+            const name = "Rio Lang"; or const name = "Rio Lang";
+    
+    Character:
+        examples:
+            let char = "R"; or let char = 'R';
+            const char = "R"; or const char = 'R';
+
+* These are the features that i am currently working on *
