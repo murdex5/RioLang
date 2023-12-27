@@ -1,2 +1,2 @@
 # RioLang
-A programing language
+A programing language :)
